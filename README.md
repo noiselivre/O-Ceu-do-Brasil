@@ -1,6 +1,6 @@
 # O Céu do Brasil
 
-http://www.oceudobrasil.ufscar.br/
+# http://www.oceudobrasil.ufscar.br/
 
 Este site tem como objetivo publicar e tornar disponíveis os programas de rádio “O Céu do Brasil”, produzidos pelo Projeto Minerva, da Rádio MEC. Entre novembro de 1978 e junho de 1979 foram ao ar 30 programas com roteiros escritos por Ronaldo R. F. Mourão e gravados com a locução do jornalista Eliakim Araújo e outros locutores não identificados.
 
